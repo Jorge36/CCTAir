@@ -1,7 +1,7 @@
 # CCTAir
 Airline Schedule which allow do the following:
 
-Display all flights on the system
+Display all flights on the system /n
 Allow a user to view a particular Flight
 Allow a user to view all available aircraft
 Allow a user to view a particular aircraft
